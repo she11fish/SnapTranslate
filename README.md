@@ -17,7 +17,10 @@ SnapTranslate is a mobile application designed to facilitate multilingual commun
 To get started with SnapTranslate, follow these steps:
 
 1. Clone the repository.
-2. Install the required dependencies.
-3. Launch the application on your mobile device (look up for how to connect to your phone with opencv).
-4. Capture a screenshot or import an image for text analysis.
-5. Explore the translation and text-to-speech features.
+2. ```bash
+    pip install -r requirements.txt.
+3. ```bash
+   python mobile.py
+4. Connect camera to your mobile device (look up for how to connect to your phone with opencv).
+5. Capture a screenshot or import an image for text analysis.
+6. Explore the translation and text-to-speech features.
