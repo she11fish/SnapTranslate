@@ -18,7 +18,7 @@ To get started with SnapTranslate, follow these steps:
 
 1. Clone the repository.
 2. ```bash
-    pip install -r requirements.txt.
+    pip install -r requirements.txt
 3. ```bash
    python mobile.py
 4. Connect camera to your mobile device (look up for how to connect to your phone with opencv).
